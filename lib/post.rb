@@ -6,4 +6,4 @@ class Post
     @title = title 
     @name = name 
   end
-end
+end 
